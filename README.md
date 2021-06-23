@@ -1,3 +1,3 @@
-# Stream Deck Zoom Plugin
+# Stream Deck Teams Plugin
 
-Info here: https://lostdomain.org/stream-deck-plugin-for-zoom/
+This was originaly the Zoom plugin: Info here: https://lostdomain.org/stream-deck-plugin-for-zoom/
